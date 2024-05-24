@@ -1,0 +1,42 @@
+[
+    {
+        "route_id": 1,
+        "obstacles": {
+            "mountains": "none",
+            "restricted_airspace": "high",
+            "urban_areas": "medium"
+        }
+    },
+    {
+        "route_id": 2,
+        "obstacles": {
+            "mountains": "low",
+            "restricted_airspace": "medium",
+            "urban_areas": "high"
+        }
+    },
+    {
+        "route_id": 3,
+        "obstacles": {
+            "mountains": "medium",
+            "restricted_airspace": "low",
+            "urban_areas": "medium"
+        }
+    },
+    {
+        "route_id": 4,
+        "obstacles": {
+            "mountains": "high",
+            "restricted_airspace": "low",
+            "urban_areas": "low"
+        }
+    },
+    {
+        "route_id": 5,
+        "obstacles": {
+            "mountains": "medium",
+            "restricted_airspace": "high",
+            "urban_areas": "high"
+        }
+    }
+]

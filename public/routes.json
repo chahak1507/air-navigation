@@ -1,0 +1,7 @@
+[
+    {"route_id": 1, "start_location": "New York", "end_location": "London", "distance": 5567, "path": "USA - UK"},
+    {"route_id": 2, "start_location": "New York", "end_location": "London", "distance": 5600, "path": "USA - UK via Iceland"},
+    {"route_id": 3, "start_location": "New York", "end_location": "London", "distance": 5700, "path": "USA - UK via Canada"},
+    {"route_id": 4, "start_location": "New York", "end_location": "London", "distance": 5800, "path": "USA - UK via Ireland"},
+    {"route_id": 5, "start_location": "New York", "end_location": "London", "distance": 5900, "path": "USA - UK via France"}
+]

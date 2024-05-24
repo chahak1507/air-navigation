@@ -1,12 +1,7 @@
 [
-    {"id": 1, "flight_id": "AA123", "turbulence": "high", "bird_strike_risk": "low", "volcanic_ash": "none", "date": "2024-05-01"},
-    {"id": 2, "flight_id": "BA456", "turbulence": "medium", "bird_strike_risk": "medium", "volcanic_ash": "low", "date": "2024-05-02"},
-    {"id": 3, "flight_id": "DL789", "turbulence": "low", "bird_strike_risk": "high", "volcanic_ash": "high", "date": "2024-05-03"},
-    {"id": 4, "flight_id": "UA101", "turbulence": "medium", "bird_strike_risk": "low", "volcanic_ash": "none", "date": "2024-05-04"},
-    {"id": 5, "flight_id": "SW202", "turbulence": "high", "bird_strike_risk": "high", "volcanic_ash": "low", "date": "2024-05-05"},
-    {"id": 6, "flight_id": "AA123", "turbulence": "low", "bird_strike_risk": "medium", "volcanic_ash": "none", "date": "2024-05-06"},
-    {"id": 7, "flight_id": "BA456", "turbulence": "medium", "bird_strike_risk": "low", "volcanic_ash": "medium", "date": "2024-05-07"},
-    {"id": 8, "flight_id": "DL789", "turbulence": "low", "bird_strike_risk": "high", "volcanic_ash": "none", "date": "2024-05-08"},
-    {"id": 9, "flight_id": "UA101", "turbulence": "high", "bird_strike_risk": "medium", "volcanic_ash": "low", "date": "2024-05-09"},
-    {"id": 10, "flight_id": "SW202", "turbulence": "medium", "bird_strike_risk": "low", "volcanic_ash": "high", "date": "2024-05-10"}
+    {"route_id": 1, "environment": {"turbulence": "medium", "bird_strike_risk": "low", "volcanic_ash": "none"}},
+    {"route_id": 2, "environment": {"turbulence": "low", "bird_strike_risk": "medium", "volcanic_ash": "none"}},
+    {"route_id": 3, "environment": {"turbulence": "high", "bird_strike_risk": "high", "volcanic_ash": "low"}},
+    {"route_id": 4, "environment": {"turbulence": "medium", "bird_strike_risk": "low", "volcanic_ash": "medium"}},
+    {"route_id": 5, "environment": {"turbulence": "high", "bird_strike_risk": "high", "volcanic_ash": "high"}}
 ]

@@ -1,22 +1,23 @@
-//import { useState, useEffect } from 'react';
+import { useState } from 'react';
 import Navbar from './components/Navbar';
 import Footer from './components/footer';
 import VisualizeData from './components/VisualizeData';
 //import { v4 as uuidv4 } from 'uuid';
 import './App.css';
-import Section2 from './components/Section2';
+import Section3 from './components/Section3';
 import Section1 from './components/Section1';
 
 function App() {
+  const [optimalPath, setOptimalPath] = useState([])
   return (
     <>
-      <Navbar />
+      <Navbar optimalPath={optimalPath}/>
       {/* section-------------1 */}
       <Section1 />
       {/* section----------2 */}
-      <Section2 />
+      <VisualizeData optimalPath={optimalPath} setOptimalPath={setOptimalPath} />
       {/* section----------3 */}
-      <VisualizeData />
+      <Section3 />
 
       <Footer />
     </>
