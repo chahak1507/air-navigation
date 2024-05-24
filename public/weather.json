@@ -1,0 +1,12 @@
+[
+    {"id": 1, "flight_id": "AA123", "temperature": -5, "wind_speed": 20, "visibility": 5, "precipitation": "snow", "date": "2024-05-01"},
+    {"id": 2, "flight_id": "BA456", "temperature": 15, "wind_speed": 10, "visibility": 10, "precipitation": "rain", "date": "2024-05-02"},
+    {"id": 3, "flight_id": "DL789", "temperature": 25, "wind_speed": 5, "visibility": 15, "precipitation": "clear", "date": "2024-05-03"},
+    {"id": 4, "flight_id": "UA101", "temperature": 10, "wind_speed": 15, "visibility": 8, "precipitation": "fog", "date": "2024-05-04"},
+    {"id": 5, "flight_id": "SW202", "temperature": 5, "wind_speed": 25, "visibility": 12, "precipitation": "rain", "date": "2024-05-05"},
+    {"id": 6, "flight_id": "AA123", "temperature": -3, "wind_speed": 18, "visibility": 6, "precipitation": "snow", "date": "2024-05-06"},
+    {"id": 7, "flight_id": "BA456", "temperature": 18, "wind_speed": 8, "visibility": 11, "precipitation": "clear", "date": "2024-05-07"},
+    {"id": 8, "flight_id": "DL789", "temperature": 22, "wind_speed": 12, "visibility": 14, "precipitation": "clear", "date": "2024-05-08"},
+    {"id": 9, "flight_id": "UA101", "temperature": 12, "wind_speed": 20, "visibility": 7, "precipitation": "fog", "date": "2024-05-09"},
+    {"id": 10, "flight_id": "SW202", "temperature": 7, "wind_speed": 22, "visibility": 13, "precipitation": "rain", "date": "2024-05-10"}
+]
