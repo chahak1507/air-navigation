@@ -6,7 +6,7 @@ const Footer = () => {
   return (
     <footer id='footer' className='flex justify-between bg-gray-900 text-white py-6 text-sm px-4'>
         <div className="logo flex items-center justify-evenly">
-          <img className='ml-5 w-7 h-7 invert mr-2' src="src/assets/aeroplane.svg" alt="" />
+          <img className='ml-5 w-7 h-7 invert mr-2' src="/aeroplane.svg" alt="" />
             <span className='font-bold text-white mr-8'>Air NAvigation</span>
         </div>
         <div className='mr-5'>

@@ -5,7 +5,7 @@ const Navbar = ({ optimalPath }) => {
   return (
     <nav className='flex justify-between bg-black text-white py-2 relative'>
       <div className="logo flex items-center">
-        <img className='ml-5 w-7 h-7 invert mr-2' src="src/assets/aeroplane.svg" alt="" />
+        <img className='ml-5 w-7 h-7 invert mr-2' src="/aeroplane.svg" alt="" />
         <span className='font-bold text-white text-2xl mr-8'>Air Navigation</span>
         <div className='flex gap-6 ml-10 text-md'>
           <a href="#" className='hover:underline transition-all'>Home</a>
